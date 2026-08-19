@@ -70,7 +70,7 @@ End-to-end ML pipeline for detecting abnormalities in radiograph images using fe
 ##  Let's Connect!
 -  [LinkedIn](https://linkedin.com/in/dinesh-kumar1208)
 -  Email: dheena97.dk@gmail.com
--  Portfolio: [Coming Soon]
+
 
 ---
 
