@@ -3,11 +3,12 @@
 ##  About Me
 I'm a **Data Science graduate** from the University of Essex with 4+ years of professional experience in systems engineering and data processing. I'm passionate about leveraging machine learning and data analytics to solve real-world problems and drive data-driven decision-making.
 
--  I recently completed my **M.Sc. in Data Science** at the University of Essex
--  I'm currently working on building end-to-end ML pipelines and expanding my portfolio
--  Previously worked as a **Systems Engineer** at Infosys and **Process Associate** at AGS Healthcare
--  Based in **Colchester, UK**
--  How to reach me: **dheena97.dk@gmail.com**
+-  MSc Data Science (Distinction, 77%) from the University of Essex
+-  Winner of the Dr Mario Gutierrez-Roig Prize for Best MSc Student for the year 2025/26
+-  Dissertation: Predicting Cardiovascular Disease from Multiway Vital Signs using Tensor Decomposition — achieved F1 = 0.994
+-  Previously worked as a Systems Engineer at Infosys (4+ years) and Process Associate at AGS Healthcare
+-  Based in Colchester, UK
+-  How to reach me: dheena97.dk@gmail.com
 -  Connect with me on [LinkedIn](https://linkedin.com/in/dinesh-kumar1208)
 
 ##  Technical Skills
@@ -38,6 +39,12 @@ I'm a **Data Science graduate** from the University of Essex with 4+ years of pr
 - Test Automation & Quality Assurance
 
 ##  Featured Projects
+
+### [Cardiovascular Disease Prediction (MSc Dissertation)](your-repo-link-here)
+
+Applied CP and Tucker tensor decomposition to 22,000+ ICU records from the MIMIC-III dataset to predict cardiovascular disease. Benchmarked Logistic Regression, SVM, Random Forest, Gradient Boosting, and MLP — best model achieved **F1 = 0.994**. Identified respiratory rate as the strongest CVD predictor.
+
+- **Tech Stack:** Python, TensorFlow, Scikit-learn, Pandas, MIMIC-III
 
 ###  [Dual-Pipeline Text Classification](link-to-your-repo)
 Built two classification pipelines comparing custom preprocessing + Logistic Regression vs BERT-tokenizer workflow. Achieved 15% F1-score improvement using BERT.
