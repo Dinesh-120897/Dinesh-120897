@@ -46,19 +46,19 @@ Applied CP and Tucker tensor decomposition to 22,000+ ICU records from the MIMIC
 
 - **Tech Stack:** Python, TensorFlow, Scikit-learn, Pandas, MIMIC-III
 
-###  [Dual-Pipeline Text Classification](link-to-your-repo)
+###  [Dual-Pipeline Text Classification](https://github.com/Dinesh-120897/dual-pipeline-text-classification)
 Built two classification pipelines comparing custom preprocessing + Logistic Regression vs BERT-tokenizer workflow. Achieved 15% F1-score improvement using BERT.
 - **Tech Stack:** Python, scikit-learn, BERT, NLP
 
-###  [Smoking Dataset Clustering Analysis](link-to-your-repo)
+###  [Smoking Dataset Clustering Analysis](https://github.com/Dinesh-120897/smoking-dataset-clustering-analysis)
 Comparative analysis of k-Means vs AGNES clustering to segment smoking behavior data and extract actionable lifestyle insights.
 - **Tech Stack:** R, Python, k-Means, Hierarchical Clustering
 
-###  [Colchester Crime & Weather Visualization](link-to-your-repo)
+###  [Colchester Crime & Weather Visualization](https://github.com/Dinesh-120897/colchester-crime-weather-visualisation)
 Interactive time-series visualizations exploring relationships between crime trends and meteorological variables.
 - **Tech Stack:** R (tidyverse, ggplot2, Plotly), Time-series Analysis
 
-###  [Radiograph Classification - Musculoskeletal Abnormalities](link-to-your-repo)
+###  [Radiograph Classification - Musculoskeletal Abnormalities](https://github.com/Dinesh-120897/radiograph-classification-musculoskeletal)
 End-to-end ML pipeline for detecting abnormalities in radiograph images using feature engineering and model validation.
 - **Tech Stack:** Python, scikit-learn, Classification, Feature Engineering
 
