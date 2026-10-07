@@ -40,7 +40,7 @@ I'm a **Data Science graduate** from the University of Essex with 4+ years of pr
 
 ##  Featured Projects
 
-### [Cardiovascular Disease Prediction (MSc Dissertation)](your-repo-link-here)
+### [Cardiovascular Disease Prediction (MSc Dissertation)](https://github.com/Dinesh-120897/cardiovascular-disease-prediction)
 
 Applied CP and Tucker tensor decomposition to 22,000+ ICU records from the MIMIC-III dataset to predict cardiovascular disease. Benchmarked Logistic Regression, SVM, Random Forest, Gradient Boosting, and MLP — best model achieved **F1 = 0.994**. Identified respiratory rate as the strongest CVD predictor.
 
